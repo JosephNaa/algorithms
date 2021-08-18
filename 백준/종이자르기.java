@@ -42,7 +42,7 @@ public class 종이자르기 {
 				startX = X.get(j);
 			}
 			startY = Y.get(i);
-			startX = 0;
+			startX = 0; // 추가
 		}
 
 		System.out.println(result);
