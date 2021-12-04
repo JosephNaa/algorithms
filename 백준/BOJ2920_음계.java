@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-// 16:10 ~ 
+// 16:10 ~ 16:27
 
 public class BOJ2920_음계 {
 	static Integer input[];
