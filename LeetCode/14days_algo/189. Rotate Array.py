@@ -1,3 +1,6 @@
+# 시간 복잡도 O(N)
+# 공간 복잡도 O(1)
+
 class Solution:
     def reverse(self, nums, i, j):
         li, ri = i, j # 왼쪽, 오른쪽 index
